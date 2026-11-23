@@ -80,7 +80,7 @@
     "form-data": "^4.0.0",
     "glob": "^8.0.3",
     "graphql-request": "6.1.0",
-    "i18next": "^21.9.1",
+    "i18next": "^26.3.4",
     "i18next-browser-languagedetector": "^6.1.5",
     "i18next-http-backend": "^1.4.1",
     "idb-keyval": "^6.2.1",
